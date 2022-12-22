@@ -14,6 +14,13 @@
       </picture>
     </a>
   </p>
+  
+  <!--p>
+    <a href="https://solved.ac/urisa12">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=urisa12" alt="Solved.ac
+프로필">
+    </a>
+  </p-->
 
   <p>
     <a href="https://hits.seeyoufarm.com">
