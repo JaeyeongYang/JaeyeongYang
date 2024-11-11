@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/JaeyeongYang"
-      width="600"
-      height="300"
-    />
-  </a>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JaeyeongYang?pet-id=643669374676251738"
+    width="800"
+    height="400"
+  />
+</a>
 </p>
